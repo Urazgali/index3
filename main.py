@@ -1,1 +1,1 @@
- World
+print('world')
